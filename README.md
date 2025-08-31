@@ -24,8 +24,8 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=await&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=await&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=awaitLearn&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=awaitLearn&theme=radical)
 
 ---
 

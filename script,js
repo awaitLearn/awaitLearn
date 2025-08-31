@@ -1,0 +1,48 @@
+
+function animateValue(id, start, end, duration) {
+    const obj = document.getElementById(id);
+    let startTimestamp = null;
+    const step = (timestamp) => {
+        if (!startTimestamp) startTimestamp = timestamp;
+        const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+        const value = Math.floor(progress * (end - start) + start);
+        obj.innerHTML = value.toLocaleString();
+        if (progress < 1) {
+            window.requestAnimationFrame(step);
+        }
+    };
+    window.requestAnimationFrame(step);
+}
+
+// Запуск анимации при загрузке страницы
+document.addEventListener('DOMContentLoaded', function() {
+    animateValue('repos', 0, 42, 2000);
+    animateValue('contributions', 0, 1200, 2500);
+    animateValue('followers', 0, 327, 1800);
+    
+    // Случайное увеличение счетчика кофе
+    setInterval(() => {
+        const coffeeCount = document.getElementById('coffee-count');
+        let count = parseInt(coffeeCount.innerText);
+        coffeeCount.innerText = count + 1;
+    }, 17000);
+});
+
+// Создание плавающих иконок
+function createFloatingIcons() {
+    const icons = ['⚡', '🐱', '🚀', '💻', '✨', '🔧', '🎯', '🐞', '☕', '❤️'];
+    const container = document.querySelector('.floating-icons');
+    
+    for (let i = 0; i < 15; i++) {
+        const icon = document.createElement('div');
+        icon.className = 'floating-icon';
+        icon.innerText = icons[Math.floor(Math.random() * icons.length)];
+        icon.style.left = `${Math.random() * 100}%`;
+        icon.style.top = `${Math.random() * 100}%`;
+        icon.style.animationDuration = `${15 + Math.random() * 20}s`;
+        icon.style.animationDelay = `-${Math.random() * 20}s`;
+        container.appendChild(icon);
+    }
+}
+
+createFloatingIcons();

@@ -1,115 +1,62 @@
+# await 👋
 
-<head>
-<link rel="stylesheet" href="styles.css">
-</head>
-    <div class="floating-icons">
-        <div class="floating-icon" style="top: 10%; left: 5%;">⚡</div>
-        <div class="floating-icon" style="top: 20%; left: 90%;">🐱</div>
-        <div class="floating-icon" style="top: 40%; left: 15%;">🚀</div>
-        <div class="floating-icon" style="top: 60%; left: 80%;">💻</div>
-        <div class="floating-icon" style="top: 80%; left: 10%;">✨</div>
-        <div class="floating-icon" style="top: 30%; left: 70%;">🔧</div>
-        <div class="floating-icon" style="top: 70%; left: 30%;">🎯</div>
-    </div>
-    
-<div class="container">
-<header>
-    <img src="https://avatars.githubusercontent.com/u/placeholder" alt="await" class="avatar">
-    <h1>await</h1>
-    <p class="subtitle">Software Engineer & Coffee Enthusiast</p>
-    <div class="tagline">
-        <span class="typewriter">Hello, I'm SocketSomeone your Software Engineer</span>
-    </div>
-    <p class="bio">
-        You just found my profile! I'm a kitten who loves coffee and bugs! (*:ω*)♦<br>
-        Passionate about creating elegant solutions to complex problems.
-    </p>
-    <div class="coffee-counter">
-        <span class="coffee-icon">☕</span>
-        <span id="coffee-count">1274</span>
-        <span>cups of coffee and counting...</span>
-    </div>
-</header>
+**Software Engineer & Coffee Enthusiast**
 
-<div class="stats-grid">
-    <div class="stat-card">
-        <div class="stat-value" id="repos">42</div>
-        <div class="stat-label">Repositories</div>
-    </div>
-    <div class="stat-card">
-        <div class="stat-value" id="contributions">1.2k</div>
-        <div class="stat-label">Contributions</div>
-    </div>
-    <div class="stat-card">
-        <div class="stat-value" id="followers">327</div>
-        <div class="stat-label">Followers</div>
-    </div>
-    <div class="stat-card">
-        <div class="stat-value">∞</div>
-        <div class="stat-label">Bugs Fixed</div>
-    </div>
-</div>
+> Hello, I'm SocketSomeone your Software Engineer  
+> You just found my profile! I'm a kitten who loves coffee and bugs! (*:ω*)♦  
+> Passionate about creating elegant solutions to complex problems.
 
-<section class="skills">
-    <h2 class="section-title">My Tech Stack</h2>
-    <div class="skills-grid">
-        <div class="skill-item">JavaScript/TypeScript</div>
-        <div class="skill-item">Python</div>
-        <div class="skill-item">Node.js</div>
-        <div class="skill-item">React</div>
-        <div class="skill-item">Vue.js</div>
-        <div class="skill-item">PostgreSQL</div>
-        <div class="skill-item">Docker</div>
-        <div class="skill-item">AWS</div>
-    </div>
-</section>
+---
 
-<section class="projects">
-    <h2 class="section-title">Featured Projects</h2>
-    <div class="project-card">
-        <h3 class="project-title">AsyncFlow</h3>
-        <p class="project-desc">A powerful asynchronous workflow engine built with Node.js and TypeScript.</p>
-        <div class="tech-stack">
-            <span class="tech-tag">TypeScript</span>
-            <span class="tech-tag">Node.js</span>
-            <span class="tech-tag">Redis</span>
-        </div>
-    </div>
-    <div class="project-card">
-        <h3 class="project-title">KittyHelper</h3>
-        <p class="project-desc">AI-powered assistant for developers with cute kitten interface.</p>
-        <div class="tech-stack">
-            <span class="tech-tag">Python</span>
-            <span class="tech-tag">FastAPI</span>
-            <span class="tech-tag">React</span>
-        </div>
-    </div>
-    <div class="project-card">
-        <h3 class="project-title">CoffeeScript</h3>
-        <p class="project-desc">A programming language that compiles to JavaScript (not the existing one).</p>
-        <div class="tech-stack">
-            <span class="tech-tag">Rust</span>
-            <span class="tech-tag">LLVM</span>
-            <span class="tech-tag">WASM</span>
-        </div>
-    </div>
-</section>
+## 🚀 Tech Stack
 
-<div class="social-links">
-    <a href="https://github.com/await" class="social-link" aria-label="GitHub">
-        <span>🐙</span>
-    </a>
-    <a href="#" class="social-link" aria-label="Twitter">
-        <span>🐦</span>
-    </a>
-    <a href="#" class="social-link" aria-label="LinkedIn">
-        <span>💼</span>
-    </a>
-    <a href="#" class="social-link" aria-label="Blog">
-        <span>✍️</span>
-    </a>
-</div>
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-</body>
-</html>
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=await&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=await&theme=radical)
+
+---
+
+## ☕ Coffee Counter
+
+**1274+ cups of coffee and counting...**
+
+---
+
+## 🎯 Featured Projects
+
+### 🔧 AsyncFlow
+A powerful asynchronous workflow engine built with Node.js and TypeScript  
+`TypeScript` `Node.js` `Redis`
+
+### 🐱 KittyHelper  
+AI-powered assistant for developers with cute kitten interface  
+`Python` `FastAPI` `React`
+
+### ☕ CoffeeScript
+A programming language that compiles to JavaScript (not the existing one)  
+`Rust` `LLVM` `WASM`
+
+---
+
+## 📫 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/await)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/await)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/await)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=await&color=blueviolet)

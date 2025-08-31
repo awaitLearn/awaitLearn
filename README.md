@@ -1,6 +1,6 @@
 
 <head>
-
+<link rel="stylesheet" href="styles.css">
 </head>
     <div class="floating-icons">
         <div class="floating-icon" style="top: 10%; left: 5%;">⚡</div>

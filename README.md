@@ -2,7 +2,7 @@
 
 **Software Engineer & Coffee Enthusiast**
 
-> Hello, I'm SocketSomeone your Software Engineer  
+> Hello, I'm await your Software Engineer  
 > You just found my profile! I'm a kitten who loves coffee and bugs! (*:ω*)♦  
 > Passionate about creating elegant solutions to complex problems.
 

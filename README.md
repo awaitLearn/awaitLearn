@@ -2,9 +2,7 @@
 
 **Software Engineer & Coffee Enthusiast**
 
-> Hello, I'm await your Software Engineer  
-> You just found my profile! I'm a kitten who loves coffee and bugs! (*:ω*)♦  
-> Passionate about creating elegant solutions to complex problems.
+> Software engineer with 9 lives, 9 cups of coffee, and zero bugs. (Okay, maybe a few bugs.)
 
 ---
 
